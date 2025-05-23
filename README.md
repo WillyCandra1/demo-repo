@@ -1,2 +1,2 @@
-# demo-repo
-First Repository Hello Ges
+# my-first-repository
+First Repository Hello Ges!
